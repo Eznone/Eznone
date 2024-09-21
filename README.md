@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Generative AI, Large Language Models, and Full Stack developement**
 
-- 👨‍💻 All of my projects are available at [Not available](Not available)
-
 - 💬 Ask me about **Data Bases, Data Structures, and Programming**
 
 - 📫 How to reach me **enzotresmediano@gmail.com**
