@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I'm Brazilian (Not a very fun fact)**
 
+- No I don't know why i put MatLab as a tool
+
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
