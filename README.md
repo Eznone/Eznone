@@ -71,15 +71,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eznone&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=555555&icon_color=555555&text_color=555555" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eznone&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=555555&text_color=555555" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🏙️ Contribution Cityscape
 
 <p align="center">
