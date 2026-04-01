@@ -15,9 +15,9 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🌱 Currently exploring the intersections of **Generative AI, Large Language Models, and Full-Stack Development**.
-- 💬 Always open to discussing **Databases, Data Structures, and Software Architecture**.
-- ⚡ Fun fact: I'm Brazilian 🇧🇷
+- 🌱 Currently exploring the intersections of **Generative AI, Cloud Architecture, and Full-Stack Development**.
+- 💬 Always open to discussing **Databases, System Design, and Software Engineering**.
+- 🌎 Nationality: American/Brasilian 🇺🇸 🇧🇷
 - 📫 Reach out at: **[enzotresmediano@gmail.com](mailto:enzotresmediano@gmail.com)**
 
 <p align="left">
