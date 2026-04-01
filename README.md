@@ -7,6 +7,12 @@
 
 ---
 
+<a href="https://portfolio-terminal-blush.vercel.app/" target="_blank">
+  <img src="./assets/display.jpg" alt="Enzo Mediano profile link" />
+</a>
+
+---
+
 ### 👨🏻‍💻 About Me
 
 - 🌱 Currently exploring the intersections of **Generative AI, Large Language Models, and Full-Stack Development**.
