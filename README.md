@@ -15,7 +15,8 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🌱 Currently exploring the intersections of **Generative AI, Cloud Architecture, and Full-Stack Development**.
+- 🌱 Exploring the intersections of **Generative AI, Cloud Architecture, and Full-Stack Development**.
+- 💻 Currently working on **Septon**, the future masterclass product of AI harnesses.
 - 💬 Always open to discussing **Databases, System Design, and Software Engineering**.
 - 🌎 Nationality: American/Brasilian 🇺🇸 🇧🇷
 - 📫 Reach out at: **[enzotresmediano@gmail.com](mailto:enzotresmediano@gmail.com)**
